@@ -15,7 +15,7 @@ Installation & Setup
 To run the project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/Bansariahir123/shoppyglobe.git
+git clone https://github.com/Bansariahir123/Shoppy-globe
 
 Navigate to the project directory:
 cd shoppyglobe
