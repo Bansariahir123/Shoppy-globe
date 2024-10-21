@@ -18,7 +18,7 @@ Clone the repository:
 git clone https://github.com/Bansariahir123/Shoppy-globe
 
 Navigate to the project directory:
-cd shoppyglobe
+cd shop
 
 Install dependencies:
 npm install
